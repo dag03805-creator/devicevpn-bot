@@ -1,5 +1,6 @@
-aiogram
+aiogram==3.7.0
 aiohttp
 requests
 python-dotenv
 qrcode[pil]
+Pillow
